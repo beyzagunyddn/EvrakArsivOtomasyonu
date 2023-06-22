@@ -1,5 +1,5 @@
 # EvrakArsivOtomasyonu
-Nesne Yönelimli Programlama 2 için verilmiş dersi tamamlama final proje ödevimizdir. Grup-13 tarafından yapılmıştır.
+Nesne Yönelimli Programlama 2 için verilmiş dersi tamamlama final proje ödevimizdir. Grup-13(Feyza Keskin,Gaye Toprak,Beyzanur Günaydın) tarafından yapılmıştır.
 
 
 1) Uygulamanın arayüzüne giriş yapma ekranı
