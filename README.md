@@ -1,4 +1,4 @@
-# EvrakArvisOtomasyonu
+# EvrakArsivOtomasyonu
 Nesne Yönelimli Programlama 2 için verilmiş dersi tamamlama final proje ödevimizdir. Grup-13 tarafından yapılmıştır.
 
 
