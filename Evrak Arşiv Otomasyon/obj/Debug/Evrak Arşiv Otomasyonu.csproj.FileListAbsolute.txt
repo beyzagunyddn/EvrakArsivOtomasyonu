@@ -1,0 +1,94 @@
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\Evrak Arşiv Otomasyonu.exe.config
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\Evrak Arşiv Otomasyonu.exe
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\Evrak Arşiv Otomasyonu.pdb
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\Google.Protobuf.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\MySql.Data.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\System.Buffers.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\System.IO.Pipelines.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\System.Memory.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\Google.Protobuf.pdb
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\Google.Protobuf.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\MySql.Data.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\System.Buffers.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\System.IO.Pipelines.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\System.Memory.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\obj\Debug\Evrak Arşiv Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\obj\Debug\Evrak Arşiv Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\obj\Debug\Evrak_Arşiv_Otomasyonu.Form1.resources
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\obj\Debug\Evrak_Arşiv_Otomasyonu.Properties.Resources.resources
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\obj\Debug\Evrak Arşiv Otomasyonu.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\obj\Debug\Evrak Arşiv Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\obj\Debug\Evrak Arşiv Otomasyonu.csproj.CopyComplete
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\obj\Debug\Evrak Arşiv Otomasyonu.exe
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\obj\Debug\Evrak Arşiv Otomasyonu.pdb
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\obj\Debug\Evrak_Arşiv_Otomasyonu.Form2.resources
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\obj\Debug\Evrak_Arşiv_Otomasyonu.Form6.resources
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\obj\Debug\Evrak_Arşiv_Otomasyonu.Form3.resources
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyonu\obj\Debug\Evrak_Arşiv_Otomasyonu.Form4.resources
+C:\Users\deniz\Desktop\Evrak Arşiv Otomasyon\obj\Debug\Evrak Arşiv Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\Evrak Arşiv Otomasyon\obj\Debug\Evrak Arşiv Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\deniz\Desktop\Evrak Arşiv Otomasyon\obj\Debug\Evrak_Arşiv_Otomasyonu.Form1.resources
+C:\Users\deniz\Desktop\Evrak Arşiv Otomasyon\obj\Debug\Evrak_Arşiv_Otomasyonu.Form2.resources
+C:\Users\deniz\Desktop\Evrak Arşiv Otomasyon\obj\Debug\Evrak_Arşiv_Otomasyonu.Form3.resources
+C:\Users\deniz\Desktop\Evrak Arşiv Otomasyon\obj\Debug\Evrak_Arşiv_Otomasyonu.Form4.resources
+C:\Users\deniz\Desktop\Evrak Arşiv Otomasyon\obj\Debug\Evrak_Arşiv_Otomasyonu.Form6.resources
+C:\Users\deniz\Desktop\Evrak Arşiv Otomasyon\obj\Debug\Evrak_Arşiv_Otomasyonu.Properties.Resources.resources
+C:\Users\deniz\Desktop\Evrak Arşiv Otomasyon\obj\Debug\Evrak Arşiv Otomasyonu.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\Evrak Arşiv Otomasyon\obj\Debug\Evrak Arşiv Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Evrak Arşiv Otomasyon\obj\Debug\Evrak Arşiv Otomasyonu.exe
+C:\Users\deniz\Desktop\Evrak Arşiv Otomasyon\obj\Debug\Evrak Arşiv Otomasyonu.pdb
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\obj\Debug\Evrak Arşiv Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\obj\Debug\Evrak Arşiv Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\obj\Debug\Evrak_Arşiv_Otomasyonu.Form1.resources
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\obj\Debug\Evrak_Arşiv_Otomasyonu.Form2.resources
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\obj\Debug\Evrak_Arşiv_Otomasyonu.Form3.resources
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\obj\Debug\Evrak_Arşiv_Otomasyonu.Form4.resources
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\obj\Debug\Evrak_Arşiv_Otomasyonu.Form6.resources
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\obj\Debug\Evrak_Arşiv_Otomasyonu.Properties.Resources.resources
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\obj\Debug\Evrak Arşiv Otomasyonu.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\obj\Debug\Evrak Arşiv Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\obj\Debug\Evrak Arşiv Otomasyonu.exe
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\obj\Debug\Evrak Arşiv Otomasyonu.pdb
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\Evrak Arşiv Otomasyonu.exe.config
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\Evrak Arşiv Otomasyonu.exe
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\Evrak Arşiv Otomasyonu.pdb
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\Google.Protobuf.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\MySql.Data.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\System.Buffers.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\System.IO.Pipelines.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\System.Memory.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\Google.Protobuf.pdb
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\Google.Protobuf.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\MySql.Data.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\System.Buffers.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\System.IO.Pipelines.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\System.Memory.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\deniz\Desktop\Github Projeleri\Evrak Arşiv Otomasyon\obj\Debug\Evrak Arşiv Otomasyonu.csproj.CopyComplete
